@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "name": "Oriental Granite Pants",
+    "price": "44.79",
+    "category": "Music",
+    "description": "Discover the average new Chair with an exciting mix of Fresh ingredients"
+  },
+  {
+    "name": "Incredible Plastic Pants",
+    "price": "746.15",
+    "category": "Books",
+    "description": "Professional-grade Fish perfect for slushy training and recreational use"
+  },
+  {
+    "name": "Modern Granite Fish",
+    "price": "238.99",
+    "category": "Tools",
+    "description": "The Quality-focused reciprocal attitude Shirt offers reliable performance and candid design"
+  },
+  {
+    "name": "Oriental Bronze Chair",
+    "price": "642.50",
+    "category": "Toys",
+    "description": "Featuring Vanadium-enhanced technology, our Tuna offers unparalleled wrathful performance"
+  },
+  {
+    "name": "Fantastic Plastic Salad",
+    "price": "214.85",
+    "category": "Computers",
+    "description": "New teal Mouse with ergonomic design for precious comfort"
+  }
+]
