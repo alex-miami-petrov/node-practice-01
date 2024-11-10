@@ -1,11 +1,10 @@
-import * as fs from 'node:fs/promises';
 import { PATH_DB } from '../constans/products.js';
+import { readFile } from '../utils/readFile.js';
 
 export const countProducts = async () => {
-  const data = await fs.readFile(PATH_DB, 'utf-8');
-  const count = data ? JSON.parse(data) : [];
+  const data = await readFile(PATH_DB);
 
-  return count.length;
+  return data.length;
 };
 
 console.log(await countProducts());
