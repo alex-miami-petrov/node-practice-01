@@ -1,0 +1,19 @@
+{
+  "name": "practice-01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Miami <alex.miami.petrov@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "@eslint/js": "^9.14.0",
+    "@faker-js/faker": "^9.2.0",
+    "eslint": "^9.14.0",
+    "globals": "^15.12.0"
+  }
+}
