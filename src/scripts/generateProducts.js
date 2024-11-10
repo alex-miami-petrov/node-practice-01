@@ -5,7 +5,7 @@ import { createFakeProduct } from '../utils/createFakeProducts.js';
 export const generateProducts = async (number) => {
   try {
     const readFile = await fs.readFile(PATH_DB, 'utf-8');
-    const data = JSON.parse(readFile);
+    const data = readFile ? JSON.parse(readFile) : [];
     for (let i = 0; i < number; i++) {
       const newProducts = createFakeProduct();
       data.push(newProducts);
