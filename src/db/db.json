@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Tasty Steel Hat",
+    "price": "650.79",
+    "category": "Jewelry",
+    "description": "The Synchronised discrete protocol Soap offers reliable performance and unique design"
+  },
+  {
+    "name": "Unbranded Granite Bike",
+    "price": "176.45",
+    "category": "Garden",
+    "description": "Stylish Bike designed to make you stand out with grouchy looks"
+  },
+  {
+    "name": "Recycled Concrete Chair",
+    "price": "123.59",
+    "category": "Music",
+    "description": "The sleek and thrifty Gloves comes with salmon LED lighting for smart functionality"
+  },
+  {
+    "name": "Generic Plastic Chips",
+    "price": "4.69",
+    "category": "Electronics",
+    "description": "The Micheal Chair is the latest in a series of trusting products from Kerluke LLC"
+  },
+  {
+    "name": "Refined Soft Hat",
+    "price": "414.16",
+    "category": "Shoes",
+    "description": "Experience the maroon brilliance of our Hat, perfect for energetic environments"
+  }
+]
