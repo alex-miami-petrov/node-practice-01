@@ -28,5 +28,11 @@
     "price": "214.85",
     "category": "Computers",
     "description": "New teal Mouse with ergonomic design for precious comfort"
+  },
+  {
+    "name": "Rustic Steel Bacon",
+    "price": "503.85",
+    "category": "Outdoors",
+    "description": "Introducing the Tuvalu-inspired Salad, blending steep style with local craftsmanship"
   }
 ]
